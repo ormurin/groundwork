@@ -1,0 +1,17 @@
+{
+    "name": "ormurin/groundwork",
+    "description": "Simple lightweight PHP framework.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ormurin\\Groundwork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damir"
+        }
+    ],
+    "require": {}
+}
